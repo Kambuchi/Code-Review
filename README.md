@@ -17,12 +17,9 @@ Checking good practices and standard code rules.
 
 👤 **Kambu**
 
+
 - GitHub: [@kambuchi](https://github.com/kambuchi)
 - Twitter: [@xKambu](https://twitter.com/xKambu)
-
-👤 **Mario Minondo**
-
-- GitHub: [@gmariominondo](https://github.com/mariominondo)
 
 
 ## 🤝 Contributing
